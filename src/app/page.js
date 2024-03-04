@@ -11,7 +11,7 @@ export default function Home() {
         </p>
         <div>
           <a
-            href="/home"
+            href="https://test.devarangan.asia"
             target="_self"
             rel="noopener noreferrer"
           >
